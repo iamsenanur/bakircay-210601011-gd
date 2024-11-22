@@ -32,6 +32,9 @@ In the midterm phase, students will:
 
 
 ---
+## Screen Recording of the Game
+https://www.youtube.com/watch?v=aabpxpJDdfs
+
 
 ## Example Game Preview
 
