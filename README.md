@@ -13,7 +13,6 @@ All necessary models, animations, and UI assets required for this project are pr
 
 - **Repository Structure:** Create a repository with a `README.md` and `.gitignore` file for Unity. Include the Unity project files organized in standard folders (Assets, Scenes, Scripts, etc.).
 
-- **Gameplay Screen Capture:** Capture a short screen recording of your game in action, showing the required functionality. Place the recording in the `README.md` file under the "Gameplay Preview" section (see example below). The capture should clearly show the game area, placement area, and UI elements.
 
 
 
@@ -28,10 +27,7 @@ In the midterm phase, students will:
  - **Object Movement:** Implement functionality for players to pick up and drag objects using touch or mouse input.
  - **Object Placement:** Ensure players can place only one object in the designated placement area at a time.
 
-  **Bonus (Optional):**	
-  - Additional creative gameplay features, visual polish, or UI enhancements beyond midterm requirements. The bonus points are optional and awarded for extra effort, such as adding subtle effects, animations, or aesthetic improvements.
-
-
+ 
 
 
 ---
