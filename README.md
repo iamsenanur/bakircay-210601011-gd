@@ -38,5 +38,5 @@ In the midterm phase, students will:
 
 ## Example Game Preview
 
- <img src="https://github.com/user-attachments/assets/2ecd843d-acbf-4518-ab2a-397911527278" width="400"> 
+<img src="Ekran%20görüntüsü%202024-11-22%20191641.png" alt="Ekran Görüntüsü" width="400">
 
