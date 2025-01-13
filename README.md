@@ -40,3 +40,5 @@ https://www.youtube.com/watch?v=aabpxpJDdfs
 
 <img src="Ekran%20görüntüsü%202024-11-22%20191641.png" alt="Ekran Görüntüsü" width="400">
 
+
+## Playable Final Project Link Via Unity Play API --> https://play.unity.com/en/games/cb995bdc-77f1-4e4f-8e98-96117e027e67/webgl-builds
