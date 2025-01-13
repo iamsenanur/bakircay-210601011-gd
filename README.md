@@ -32,10 +32,11 @@ In the midterm phase, students will:
 
 
 ---
-## Screen Recording of the Game
+## Screen Recording of the Game for Midterm
 https://www.youtube.com/watch?v=aabpxpJDdfs
 
-
+## Screen Recording of the Game for Final
+https://www.youtube.com/watch?v=kbeGBzD368w
 ## Example Game Preview
 
 <img src="Ekran%20görüntüsü%202024-11-22%20191641.png" alt="Ekran Görüntüsü" width="400">
